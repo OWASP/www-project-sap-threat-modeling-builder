@@ -2,6 +2,7 @@
 
 The OWASP SAP Threat Modeling Builder is an open-source project designed to help SAP Administrators, SAP Security Administrators, and other related professionals build an all-inclusive map of inter-SAP connections. This tool enables the identification of potential security risks and vulnerabilities within SAP environments, with a particular focus on detecting connections between production and non-production systems.
 
+If you want to learn more about potential SAP threats, you can visit [https://redrays.io/blog/securing-sap-server-connections-threat-modeling/|https://redrays.io/blog/securing-sap-server-connections-threat-modeling/]
 ## Description
 
 The SAP Threat Modeling Builder provides a user-friendly interface that allows users to:

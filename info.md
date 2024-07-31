@@ -1,17 +1,10 @@
 ### SAP Threat Modeling Builder Information
-* [Incubator Project](#)
-* [Type of Project](#)
-* [Version 0.0.0](#)
-* [Builder](#)
-* [Breaker](#)
+* [Version 1.0.0]()
 
 ### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+* [Download SAP Threat Modeling](https://github.com/redrays-io/SAP-Threat-Modeling)
+* [SAP Security Scanner](https://redrays.io/redrays-security-platform-for-sap-consultants/)
+* [RedRays LinkedIn](https://www.linkedin.com/company/redrays)
 
 ### Code Repository
-* [repo](#)
-
-### Change Log
-* [changes](#)
-
+* [Repository](https://github.com/redrays-io/SAP-Threat-Modeling)

@@ -1,18 +1,8 @@
----
-
-layout: col-sidebar
-title: OWASP SAP Threat Modeling Builder
-tags: sap, threat-modeling, sap-security-assessment, sap security, visualization
-level: 2
-type: tool
-pitch: A comprehensive tool for visualizing and analyzing inter-SAP connections to identify potential security risks
-
----
-
 ## Overview
 
 The OWASP SAP Threat Modeling Builder is an open-source project designed to help SAP Administrators, SAP Security Administrators, and other related professionals build an all-inclusive map of inter-SAP connections. This tool enables the identification of potential security risks and vulnerabilities within SAP environments, with a particular focus on detecting connections between production and non-production systems.
 
+If you want to learn more about potential SAP threats, you can visit [RedRays Blog](https://redrays.io/blog/securing-sap-server-connections-threat-modeling/)
 ## Description
 
 The SAP Threat Modeling Builder provides a user-friendly interface that allows users to:
@@ -57,7 +47,7 @@ By providing a comprehensive view of SAP system interconnections, this tool aids
    ![screenshot](assets/images/2.png)
    ![screenshot](assets/images/3.png)
    ![screenshot](assets/images/4.png)
-5. 
+5.
 ## Docker Setup
 
 Alternatively, you can set up the tool using Docker with the following command:
@@ -103,3 +93,8 @@ We welcome contributions from the community. Here's how you can get involved:
 - Contribute to the project's development on GitHub
 - Report issues or suggest enhancements through our issue tracker
 - Share your experiences and use cases with the community
+
+## Leaders
+[Vahagn Vardanian](mailto:vahagn@redrays.io)
+
+[RedRays Security Team](https://redrays.io)

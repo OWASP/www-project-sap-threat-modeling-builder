@@ -1,2 +1,2 @@
 ### Leaders
-* [Vahagn Vardanian](mailto:Vahagn.Vardanian@owasp.org)
+* [Vahagn Vardanian](mailto:vahagn@redrays.io)

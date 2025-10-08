@@ -1,0 +1,82 @@
+audience:
+  - builder
+leaders:
+  - name: Vahagn Vardanian
+    email: vahagn@redrays.io
+    github: vah13
+level: 2
+license:
+  - GPL-2.0
+  - MIT
+name: OWASP SAP Threat Modeling Builder
+pitch: A comprehensive tool for visualizing and analyzing inter-SAP connections to identify potential security risks
+repositories:
+  - name: www-project-sap-threat-modeling-builder
+    url: https://github.com/OWASP/www-project-sap-threat-modeling-builder
+    description: OWASP Foundation web repository
+  - name: www-project-sap-threat-modeling-builder
+    url: https://github.com/redrays-io/www-project-sap-threat-modeling-builder
+    description: OWASP Foundation web repository
+  - name: ABAP-Code-Scanner
+    url: https://github.com/redrays-io/ABAP-Code-Scanner
+    description: 'RedRays ABAP Code Analyzer: Open-Source Security Scanner for SAP ABAP'
+  - name: ClassicSecStoreDecryptor
+    url: https://github.com/redrays-io/ClassicSecStoreDecryptor
+    description: A Java-based utility for decrypting SecStore properties and key files. Features automatic and manual decryption modes, custom file path
+      support, and compatibility with various SecStore encryption versions.
+  - name: CVE-2021-33690
+    url: https://github.com/redrays-io/CVE-2021-33690
+    description: '[CVE-2021-33690] Server Side Request Forgery vulnerability in SAP NetWeaver Development Infrastructure'
+  - name: CVE-2022-39802
+    url: https://github.com/redrays-io/CVE-2022-39802
+    description: '[CVE-2022-39802] File path traversal vulnerability in SAP Manufacturing Execution'
+  - name: CVE-2022-41272
+    url: https://github.com/redrays-io/CVE-2022-41272
+    description: Improper access control in SAP NetWeaver Process Integration
+  - name: CVE-2025-31324
+    url: https://github.com/redrays-io/CVE-2025-31324
+    description: CVE-2025-31324, SAP Exploit
+  - name: nmap
+    url: https://github.com/redrays-io/nmap
+    description: Nmap - the Network Mapper. Github mirror of official SVN repository.
+  - name: pysap
+    url: https://github.com/redrays-io/pysap
+    description: pysap is an open source Python library that provides modules for crafting and sending packets using SAP's NI, Diag, Enqueue, Router, MS,
+      SNC, IGS, RFC and HDB protocols.
+  - name: redrays-cicd
+    url: https://github.com/redrays-io/redrays-cicd
+  - name: sap-nmap-probes
+    url: https://github.com/redrays-io/sap-nmap-probes
+    description: Nmap custom probes for better detecting SAP services
+  - name: SAP-Penetration-Testing
+    url: https://github.com/redrays-io/SAP-Penetration-Testing
+    description: 'SAP Penetration Testing: A Comprehensive Analysis of SAP Security Issues'
+  - name: sap-reposrc-decompressor
+    url: https://github.com/redrays-io/sap-reposrc-decompressor
+    description: SAP Report Source Decompressor
+  - name: SAP-Security-Training
+    url: https://github.com/redrays-io/SAP-Security-Training
+    description: 'Welcome to the SAP Security Training repository by RedRays. This repository serves as an informational hub for our comprehensive SAP security
+      training programs, including our highly-rated Udemy course and our intensive three-day practical training. '
+  - name: SAP-Threat-Modeling
+    url: https://github.com/redrays-io/SAP-Threat-Modeling
+    description: The SAP Threat Modeling Tool is an on-premises open-source web application designed to analyze and visualize connections between SAP systems,
+      helping users identify security risks and vulnerabilities. With features like inputting SAP credentials, scanning for connections, and visualizing
+      the network.
+  - name: SAP_Cloud_Connector_SSFS_Decryption
+    url: https://github.com/redrays-io/SAP_Cloud_Connector_SSFS_Decryption
+    description: A PoC of decryption the SAP Cloud Connector SSFS
+  - name: sap_ms
+    url: https://github.com/redrays-io/sap_ms
+    description: SAP Message Server research presented at OPCDE 2019
+  - name: WS_RaceCondition_PoC
+    url: https://github.com/redrays-io/WS_RaceCondition_PoC
+    description: Simple PoC for demonstrating Race Conditions on Websockets
+tags:
+  - sap
+  - threat-modeling
+  - sap-security-assessment
+  - sap security
+  - visualization
+type: tool
+website: https://owasp.org/www-project-sap-threat-modeling-builder
